@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+HI, IT'S ME UMBER QASIM, REGNO# 2023-BSE-066
+<<<<<<< HEAD
+Umber - I love coding and coffee
+Exam feature test
+Feature for exam workflow
+>>>>>>> staging
+Line from Umber
+Name: Sabahat Fatima
+Note: This is for Lab2 tasks.
+Updated note: Now testing Git staging and committing again.
+Work on new feature
+Feature for exam workflow
+Line from Collaborator
+collabB
