@@ -13,3 +13,11 @@ Adding a new line for practise rebase
 
 REBASE practise
 (Another local update for rebase)
+<<<<<<< Updated upstream
+=======
+
+This is a temporary change for feature-branch.
+Adding some more test lines without committing.
+>>>>>>> Stashed changes
+
+First test line
