@@ -21,3 +21,5 @@ Adding some more test lines without committing.
 >>>>>>> Stashed changes
 
 First test line
+This is a small fix for the amend task.
+Adding one more change I forgot earlier.
