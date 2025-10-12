@@ -1,4 +1,7 @@
+HEAD
 This line was updated remotely again.
+This line was updated locally at the same time.
+(Local conflicting change)
 This line was added locally.
 
 HEAD
