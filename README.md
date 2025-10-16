@@ -1,4 +1,7 @@
+HEAD
 Remote change by GitHub for Ques#02
+Localchange by GitHub for Ques#02
+(Local conflicting edit)
 HEAD
 Another remote edit by GitHub for rebase
 Another local edit by Umber for rebase
