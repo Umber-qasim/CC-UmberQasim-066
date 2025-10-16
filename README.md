@@ -1,4 +1,7 @@
+HEAD
 Another remote edit by GitHub for rebase
+Another local edit by Umber for rebase
+(Local edit for rebase test)
 HEAD
 Local change by Umber
 Remote change by GitHub
