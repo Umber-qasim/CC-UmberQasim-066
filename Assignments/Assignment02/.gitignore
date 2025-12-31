@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+
+# SSH Keys
+keys/
+
+# Backup / temp files
+*.save
+
+# Generated outputs
+outputs.json
+aws/
+awscliv2.zip
+main.tf.save
